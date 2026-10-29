@@ -1,0 +1,9 @@
+{
+  "file": "桂华出租屋工作表(1).xlsx",
+  "sheet": "桂华",
+  "header_row": 2,
+  "phone_col": 4,
+  "name_col": 3,
+  "addr_col": 1,
+  "out_col": 8
+}

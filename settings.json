@@ -1,0 +1,13 @@
+{
+  "interval": 6,
+  "voice": {
+    "dir": "/sdcard/autodail",
+    "name": "兴乐社区介绍.m4a",
+    "auto_speaker": true,
+    "speaker": true,
+    "sx": null,
+    "sy": null,
+    "ssw": null,
+    "ssh": null
+  }
+}
